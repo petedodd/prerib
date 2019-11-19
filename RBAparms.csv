@@ -1,0 +1,33 @@
+NAME,DISTRIBUTION,DESCRIPTION,SOURCE,NOTE
+AE.6H.0-17,E(396.653704743434),"6H AE probability, ages 0-17",Menzies 2018 pediatric trial,""
+AE.6H.18-34,"B(21.2627981971801,1357.9196121381)","6H AE probability, ages 18-34",Menzies unpublished data,""
+AE.6H.35-64,"B(45.1939550148373,1568.03374355827)","6H AE probability, ages 35-64",Menzies unpublished data,""
+AE.6H.65+,"B(6.44144817333538,110.424825828607)","6H AE probability, ages 65+",Menzies unpublished data,""
+OR.6H,"LN(-0.93926387468323,0.214350847019905)","6H efficacy TST+ as OR, all ages",Zenner 2018 network meta-analysis,""
+AE.4R.0-17,E(332.859141505999),"4R AE probability, ages 0-17",Menzies 2018 pediatric trial,""
+AE.4R.18-34,"B(12.0807863420021,1371.63389544578)","4R AE probability, ages 18-34",Menzies unpublished data,""
+AE.4R.35-64,"B(14.0456142322815,1541.27206842236)","4R AE probability, ages 35-64",Menzies unpublished data,""
+AE.4R.65+,"B(2.36986760235613,100.324395166409)","4R AE probability, ages 65+",Menzies unpublished data,""
+OR.4R,"LN(-1.09235617710903,0.376045022775337)","4R efficacy TST+ as OR, all ages",Zenner 2018 network meta-analysis,""
+AE.3HP.0-17,"B(2.30938119194641,412.609439627759)","4R AE probability, ages 0-17",Villarino 2015 pediatric trial,""
+AE.3HP.18-34,"B(29.0361139912311,1402.80725720135)","4R AE probability, ages 18-34",Sterling trial,""
+AE.3HP.35-64,"B(77.2763856730113,1768.87531595417)","4R AE probability, ages 35-64",Sterling trial,""
+AE.3HP.65+,"B(11.1862673751049,122.188459020377)","4R AE probability, ages 65+",Sterling trial,""
+OR.3HP,"LN(-1.48585291401482,0.446225397965938)","3HP efficacy TST+ as OR, all ages",Zenner 2018 network meta-analysis,""
+P.0-17.11,"B(13.1447024329769,36.1479316906865)",Progression risk: age 0-17; 1 years - 1 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.18-34.11,"B(5.79496609230769,299.203249292308)",Progression risk: age 18-34; 1 years - 1 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.35-64.11,"B(5.79496609230769,299.203249292308)",Progression risk: age 35-64; 1 years - 1 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.65+.11,"B(5.79496609230769,299.203249292308)",Progression risk: age 65+; 1 years - 1 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.0-17.31,"B(13.1447024329769,36.1479316906865)",Progression risk: age 0-17; 1 years - 3 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.18-34.31,"B(7.27931174746651,243.731438165172)",Progression risk: age 18-34; 1 years - 3 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.35-64.31,"B(7.27931174746651,243.731438165172)",Progression risk: age 35-64; 1 years - 3 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.65+.31,"B(7.27931174746651,243.731438165172)",Progression risk: age 65+; 1 years - 3 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.0-17.13,"B(2.9592822244317,17.6868728297429)",Progression risk: age 0-17; 3 years - 1 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.18-34.13,"B(2.55490051764706,179.9379936)",Progression risk: age 18-34; 3 years - 1 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.35-64.13,"B(2.55490051764706,179.9379936)",Progression risk: age 35-64; 3 years - 1 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.65+.13,"B(2.55490051764706,179.9379936)",Progression risk: age 65+; 3 years - 1 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.0-17.33,"B(2.9592822244317,17.6868728297429)",Progression risk: age 0-17; 3 years - 3 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.18-34.33,"B(4.43579415921528,180.388962474755)",Progression risk: age 18-34; 3 years - 3 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.35-64.33,"B(4.43579415921528,180.388962474755)",Progression risk: age 35-64; 3 years - 3 months,Trauer et al,See DESCRIPTION for variant naming convention
+P.65+.33,"B(4.43579415921528,180.388962474755)",Progression risk: age 65+; 3 years - 3 months,Trauer et al,See DESCRIPTION for variant naming convention
+RR.TST,"LN(-1.86278401275579,0.244747266551745)","Risk ratio for TB given TST-ve vs TST+ve, all ages",Abubakar,Under 10mm vs over; Abubakar Figure 1
