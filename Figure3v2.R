@@ -25,3 +25,5 @@ GP4ab <- ggplot(DLM4a,
 GP4ab
 
 ggsave(GP4ab,file=here('figures/Figure3v3.pdf'))
+
+ggsave(GP4ab,file=here('figures/Figure3v3.eps'),device = cairo_ps)

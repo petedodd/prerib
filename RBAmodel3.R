@@ -396,6 +396,8 @@ DLM4a[qty=='AE',
       QTY:='Severe adverse events']
 DLM4a$QTY <- factor(DLM4a$QTY,levels=sort(unique(DLM4a$QTY),dec=TRUE),ordered=TRUE)
 
+save(DLM4a,file=here('figures/DLM4a.Rdata'))
+
 GP4ab <- ggplot(DLM4a,
                 aes(x=acat,y=mid*1e3,ymin=lo*1e3,ymax=hi*1e3,
                     col=LTBI,shape=regimen,group=paste(LTBI,regimen)))+
